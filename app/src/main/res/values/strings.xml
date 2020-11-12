@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ViberiFon</string>
+
+    <string name="massege">Какой цвет любиш?</string>
+    <string name="btn">Выбери!</string>
+
+
+
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зеленый</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
